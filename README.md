@@ -6,11 +6,12 @@ List of projects where I worked
 ## RadioFX
  - Swift
  - Socket.io
- - media stream
+ - media stream (audio)
  - custom controls
  - mobile DevOps
  - fastlane scripts
  - whitelabel solution
+ - UI tests
 
 ## StreamLayer
  - Swift
@@ -19,12 +20,22 @@ List of projects where I worked
  - framework
  - carthage
  - Redux, VIPER
+ - WebRTC (voice calls)
+   - states
+   - signalling server and protocol
+ - Voximplant (voice and video calls)
+ - Tinode (chat messaging backend and state machine)
+ - Chatto (messaging UI coordinator)
+ - Realm
+ - amount of networking
+ - multithreading
 
 # Mobecan (2020 -)
 
 ## Forward leasing
-  - Swift
-  - legacy code
+ - Swift
+ - legacy code
+ - make documentation
 
 ## Work in Russia (Rostrud)
  - Swift
@@ -34,6 +45,8 @@ List of projects where I worked
  - fast prototyping
  - Clean Swift
  - RxSwift
+ - amount of networking
+ - data mocks
 
 # SimbirSoft, LLC (2018)
 
@@ -62,12 +75,25 @@ List of projects where I worked
 # cloudpayments.ru
 
 ## CloudPaymentsSDK
+ - make sdk as .framework
+ - security
+ - framework distribution
+ - documentation
 
 # 2can.ru (2012 - 2018)
 
 ## 2can -- mobile 
+ - custom controls
+ - external hardware integration (card readers, bluetooth LE)
+ - work with Currency types
 
 ## iboxRegister
+ - custom controls
+ - external hardware integration (card readers, cashbox, thermal printer, bluetooth LE)
+ - work with Currency types
+ - offline/online data provider
+ - iPad only
+ - multilanguage, multicurrency
 
 # WebParadox, LLC (2010-2012)
 
