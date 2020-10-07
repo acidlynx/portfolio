@@ -87,30 +87,67 @@ Project was as support position.
 # SimbirSoft, LLC (2018)
 
 ## FIFA 2018
+
+The main goal is the onboarding app for foregners. You can buy tickets, see info about Russia, cities, culture.
+
+Technologies
  - Swift
  - RxSwift
  - Legacy
  - bugfix
-
+ - Google Analytics
+ 
 ## Mega (IKEA)
+
+The app for MEGA markets. You can see shops, info about goods. My main goal was implement Yandex.Taxi integration (UI and networking)
+
+Technologies
  - ObjC
  - VIPER
  - Yandex.Taxi API intergration
+ - Google Analytics
 
 ## md-audit
+
+The app for auditors. You can make audition sessions and fill checklists.
+
+Technologies
  - ObjC + Swift
  - Legacy
  - Statistics
+ - Feature toggle
 
 ## HunterMap
+
+The app shows russian aerials for hunters. You can purchase to open maps for region and use the app for navigation.
+
+Technologies
  - Swift
  - RxSwift
  - geolocation
- - maps integradion
+ - maps integration
+ - InApp purchases
+ - Google Analytics
  
-# cloudpayments.ru
+## Lukoil Oil chooser (Help for android app)
+
+App that helps to choose oil for your car.
+
+Here I researched SQLite database stucture, wrote a dozen queries to that DB. Also I made a huge analytics work and created understandable documentation.
+
+Technologies
+ - SQLite
+ - Analytics
+ - Documentation
+ - Rapid development
+ 
+# cloudpayments.ru (2016)
 
 ## CloudPaymentsSDK
+
+The main goal was to make framework for use in mobile apps.
+
+Technologies
  - make sdk as .framework
  - security
  - framework distribution
@@ -118,21 +155,36 @@ Project was as support position.
 
 # 2can.ru (2012 - 2018)
 
-## 2can -- mobile 
+## 2can - mobile (aka "iBox terminal")
+
+The first mobile payment terminal app in the Russia. As merchant you can receive card payments with `card present` from you customers.
+
+Technologies
+ - ObjC
  - custom controls
  - external hardware integration (card readers, bluetooth LE)
  - work with Currency types
 
-## iboxRegister
+## iboxRegister (frozen)
+
+The first Register app in the Russia for the iPad. As user you can see offline and online-based goods store, make orders, process payments and print receipts.
+
+Technologies
+ - ObjC 
  - custom controls
  - external hardware integration (card readers, cashbox, thermal printer, bluetooth LE)
  - work with Currency types
  - offline/online data provider
  - iPad only
  - multilanguage, multicurrency
+ - Realm, AFNetworking
 
 # WebParadox, LLC (2010-2012)
 
 ## Mailo
+
+3D-based game about dog Mailo
+
+Technologies
 
 ## Scanwords
