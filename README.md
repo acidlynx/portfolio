@@ -4,6 +4,23 @@ List of projects where I worked
 # Makeomatic, LLC (2018 - )
 
 ## RadioFX
+
+https://radiofx.co
+The main goal is delivering the power of social radio to college stations through their very own custom mobile app experience.
+ - Stations broadcast stream
+ - Full interactive content management system
+ - Live chat with DJs and other listeners
+ - Detailed programming schedule with alerts
+ - Rich station analytics
+ - Social media integration
+
+Features
+ - Whitelabel applications
+ - update legacy swift3 code up to swift 5
+ - update libraries and dependencies
+ - rewrite code to able to use settings management
+
+Techologies
  - Swift
  - Socket.io
  - media stream (audio)
