@@ -31,6 +31,11 @@ Techologies
  - UI tests
 
 ## StreamLayer
+
+http://www.streamlayer.io
+StreamLayer is focused on changing the way we watch live video on smartphones and connected TVs. We’ve developed a proprietary Video Engagement Operating System (VEOS) that gives premium video rights holders the ability to transform video content into highly-engaging interactive viewing experiences on their own native app platforms.  With StreamLayer’s VEOS, clients can offer their users a near limitless world of hyper-personalized features and viewing options, from private watch parties and real-time statistics to e-commerce opportunities and in-play sports betting…all from within the main video experience.
+
+Technologies
  - Swift
  - custom controls
  - gRPC
@@ -49,21 +54,35 @@ Techologies
 
 # Mobecan (2020 -)
 
-## Forward leasing
- - Swift
- - legacy code
- - make documentation
-
 ## Work in Russia (Rostrud)
- - Swift
+
+The main goal is make app that unite two platforms skillsnet.ru and trudvsem.ru
+
+Features
+ - Feeds
+ - Chat
+ - Resumes and vacancies
+ - Social networking
  - MVP
+ - fast prototyping
+
+Technologies
+ - Swift
  - socket.io
  - custom conrols
- - fast prototyping
  - Clean Swift
  - RxSwift
  - amount of networking
  - data mocks
+
+## Forward leasing
+
+Project was as support position.
+
+ - Swift
+ - legacy code
+ - make documentation
+
 
 # SimbirSoft, LLC (2018)
 
