@@ -29,6 +29,8 @@ Techologies
  - fastlane scripts
  - whitelabel solution
  - UI tests
+ - Bitrise CI
+ - Fastlane and ruby scripts for it
 
 ## StreamLayer
 
@@ -51,6 +53,8 @@ Technologies
  - Realm
  - amount of networking
  - multithreading
+ - Bitrise CI
+ - Fastlane and ruby scripts for it
 
 # Mobecan (2020 -)
 
@@ -164,6 +168,7 @@ Technologies
  - custom controls
  - external hardware integration (card readers, bluetooth LE)
  - work with Currency types
+ - Fastlane and ruby scripts for it
 
 ## iboxRegister (frozen)
 
@@ -178,6 +183,7 @@ Technologies
  - iPad only
  - multilanguage, multicurrency
  - Realm, AFNetworking
+ - Fastlane and ruby scripts for it
 
 # WebParadox, LLC (2010-2012)
 
@@ -186,5 +192,7 @@ Technologies
 3D-based game about dog Mailo
 
 Technologies
+ - 3d mapping
+ - custom controls
+ - iPad screens
 
-## Scanwords
