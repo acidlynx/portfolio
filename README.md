@@ -1,7 +1,7 @@
 # portfolio
 List of projects where I worked
 
-# Makeomatic, LLC (2018 - )
+# Makeomatic, LLC (2018 - 2020)
 
 ## RadioFX
 
@@ -13,6 +13,10 @@ The main goal is delivering the power of social radio to college stations throug
  - Detailed programming schedule with alerts
  - Rich station analytics
  - Social media integration
+ - Set up project infrastructures
+ - Github actions + Bitrise CI/CD workers
+ - Improved DevOps practices
+ - Infrastructure audit
 
 Features
  - Whitelabel applications
@@ -54,9 +58,9 @@ Technologies
  - amount of networking
  - multithreading
  - Bitrise CI
- - Fastlane and ruby scripts for it
+ - Fastlane and ruby scripts for DevOps practices
 
-# Mobecan (2020 -)
+# Mobecan (2020)
 
 ## Work in Russia (Rostrud)
 
