@@ -1,6 +1,14 @@
 # portfolio
 List of projects where I worked
 
+# Flowwow (2022)
+
+## Flowwow client app
+
+https://flowwow.com
+- Developing features for the client's app
+
+
 # Makeomatic, LLC (2018 - 2020)
 
 ## RadioFX
